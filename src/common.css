@@ -1,0 +1,14 @@
+.input {
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: inset 0 -2px 1px rgba(0,0,0,0.03);
+}
+
+.todo-list {
+    list-style: none;
+}
+
+.todo.line-through {
+    text-decoration: line-through;
+    text-decoration-color: black;
+}
